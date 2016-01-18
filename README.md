@@ -1,1 +1,1 @@
-# stuyx.github.io
+# <a href="http://stuyx.github.io">Stuyvesant Accelerator</a>
