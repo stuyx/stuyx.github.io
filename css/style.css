@@ -5,8 +5,8 @@
 
 h1 {
 	font-size: 700%;
-	/*font-family: 'Play', sans-serif; */
-	font-family: titlefont;
+	font-family: 'Play', sans-serif;
+	/* font-family: titlefont; */
 }
 
 @font-face {
