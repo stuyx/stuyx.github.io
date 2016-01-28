@@ -4,13 +4,6 @@
 }
 
 h1 {
-	font-size: 700%;
-	font-family: 'Play', sans-serif;
-	/* font-family: titlefont; */
-}
-
-@font-face {
-    font-family: titlefont;
-    src: url(gtek.ttf);
-    font-weight: bold;
+	font-size: 600%;
+	font-family: 'Audiowide', cursive;
 }
